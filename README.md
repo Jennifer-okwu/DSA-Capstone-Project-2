@@ -78,11 +78,27 @@ CALCULATE (COUNTROWS (‘Palmoria Group emp-data’), ‘Palmoria Group emp-data
 
 The following insights were derived from the analysis;
 - Males are _2.53%_ more than females in the overall gender distribution while the employees whose gender were not disclosed make up _4.23%_ of the gender distribution.
-- The _Kaduna_ branch of the company has about 17 males more than females.
-- Across the departments, it was observed that _product management, support, services, legal and accounting departments_ had about 5% more males in comparison to females. Only _research and development department_ had 10% more females than males.
-- The company has more _“good” and “very good”_ employee rating from the female gender while the male gender has more _“average”, “very poor” and “poor”_ employee ratings when compared to the female gender.
+- The _Kaduna_ branch of the company has about _17_ males more than females.
+
+![Palmoria 1](https://github.com/user-attachments/assets/bacc2458-8c60-47ed-8c36-04d8a720c2ae)
+
+- Across the departments, it was observed that _product management, support, services, legal and accounting departments_ had about _5%_ more males in comparison to females. Only _research and development department_ had _10%_ more females than males.
+
+![Palmoria 2](https://github.com/user-attachments/assets/a3899102-a061-47bb-a067-55c1c4f32095)
+
+- The company has more _“good” and “very good”_ employee rating from the _female_ gender while the _male_ gender has more _“average”, “very poor” and “poor”_ employee ratings when compared to the female gender.
+
+![Palmoria 3](https://github.com/user-attachments/assets/f2e91012-abe3-4bb6-8db9-a3c6994129f3)
+
 - From the analysis of the average salary of the company’s employees by gender across locations and departments. It was observed that the average salary of the male employees was _$3,000_ higher than the average salary of the female employees across the 3 branches of the company. Males are also paid higher in almost all the departments of the company except _engineering, training and marketing departments_ where females are paid higher than the male employees.
+
+![Palmoria 4](https://github.com/user-attachments/assets/99cf68c9-f22a-434c-a45d-55cbdef292da)
+
+![Palmoria 5](https://github.com/user-attachments/assets/91f49b6c-d698-4fdb-b537-490f1b2d7154)
+
 - The company does not meet the $90,000 minimum salary regulation requirement. _Over 50%_ of her employees have salaries below the required minimum salary.
+
+![Palmoria 6](https://github.com/user-attachments/assets/13355f94-a129-4b82-8585-829407d810de)
 
 ### Recommendations
 
