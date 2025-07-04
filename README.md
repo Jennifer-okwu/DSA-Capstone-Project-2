@@ -70,7 +70,8 @@ CALCULATE (COUNTROWS (‘Palmoria Group emp-data’), ‘Palmoria Group emp-data
 ```
 
 ``` DAX
-% of Employees below the minimum salary of $90,000 = DIVIDE ([Employees Below 90K], [Total Employees], 0)
+% of Employees below the minimum salary of $90,000 =
+DIVIDE ([Employees Below 90K], [Total Employees], 0)
 
 ```
 
