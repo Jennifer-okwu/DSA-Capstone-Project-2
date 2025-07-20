@@ -75,6 +75,13 @@ DIVIDE ([Employees Below 90K], [Total Employees], 0)
 
 ```
 
+```DAX
+Salary Band = VAR Salary = 'Palmoria Group emp-data'[Salary] VAR BandStart = FLOOR(Salary, 10000)
+RETURN FORMAT(BandStart, "$#,##0") & " - " & FORMAT(BandStart + 9999, "$#,##0))
+
+```
+
+
 ### Result/ Findings
 
 The following insights were derived from the analysis;
