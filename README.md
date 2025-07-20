@@ -81,7 +81,6 @@ RETURN FORMAT(BandStart, "$#,##0") & " - " & FORMAT(BandStart + 9999, "$#,##0))
 
 ```
 
-
 ### Result/ Findings
 
 The following insights were derived from the analysis;
@@ -106,7 +105,15 @@ The following insights were derived from the analysis;
 
 - The company does not meet the $90,000 minimum salary regulation requirement. _Over 50%_ of her employees have salaries below the required minimum salary.
 
-![Palmoria 6](https://github.com/user-attachments/assets/13355f94-a129-4b82-8585-829407d810de)
+![Palmoria 6](https://github.com/user-attachments/assets/3c1989df-577f-483e-9de2-d5c88325b7d0)
+
+![Palmoria 7](https://github.com/user-attachments/assets/ae8f7527-5749-4db2-a128-34b405e14ab4)
+
+![Palmoria 8](https://github.com/user-attachments/assets/7fbf4387-e693-49bd-8bcd-18f0e2de9cde)
+
+- Visuals for question 5
+
+![Palmoria 9](https://github.com/user-attachments/assets/c59222ad-9138-44ac-8aab-9f1ea97690d3)
 
 ### Recommendations
 
