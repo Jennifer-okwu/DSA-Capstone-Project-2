@@ -41,6 +41,16 @@ EDA involved the exploration of the data to answer some questions about the data
     - How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.? 
     - Also visualize this by region.
 
+Case Questions 
+Mr Gamma thought to himself that since you were already working on the employee 
+data, you could help out with allocating the annual bonus pay to employees based on the 
+performance rating. He handed you another data set that contains rules for making bonus 
+payments and asked you to: 
+- Calculate the amount to be paid as a bonus to individual employees. 
+- Calculate the total amount to be paid to individual employees (salary inclusive of 
+bonus).
+- Total amount to be paid out per region and company-wide.
+
 ### Data Analysis
 
 Some of the DAX expressions used during the analysis are:
@@ -111,7 +121,7 @@ The following insights were derived from the analysis;
 
 ![Palmoria 8](https://github.com/user-attachments/assets/7fbf4387-e693-49bd-8bcd-18f0e2de9cde)
 
-- Visuals for question 5
+- Visuals for case questions
 
 ![Palmoria 9](https://github.com/user-attachments/assets/c59222ad-9138-44ac-8aab-9f1ea97690d3)
 
