@@ -42,6 +42,7 @@ EDA involved the exploration of the data to answer some questions about the data
     - Also visualize this by region.
 
 Case Questions 
+
 Mr Gamma thought to himself that since you were already working on the employee 
 data, you could help out with allocating the annual bonus pay to employees based on the 
 performance rating. He handed you another data set that contains rules for making bonus 
